@@ -1,9 +1,9 @@
 # Baza_wypozyczalnia_sprzetu
-* [generalne informacje](generalne_ifnormacje)
-* [krótki opis](krótki_opis)
-* [instrukcja instalacji](instrukcja_isntalacji)
-* [opis perspektyw](opis_perspektyw)
-* [opis selectów](opis_selectow)
+* [generalne informacje](#generalne-ifnormacje)
+* [krótki opis](#krótki-opis)
+* [instrukcja instalacji](#instrukcja-isntalacji)
+* [opis perspektyw](#opis-perspektyw)
+* [opis selectów](#opis-selectów)
 
 ## generalne informacje  
 Projekt przedstawia bazę danych ,z okresu styczeń – marzec 2019,  
